@@ -50,3 +50,6 @@ Follow the steps to extract and load the data into the data model.
 1. Run `create_tables.py` to create/ reset the tables
 2. Next,run `etl.py` to extract and load the data into the database
 3. With `test.ipynb`, check the data has successfully loaded into the database 
+
+<br>
+<i> This is a project from Udacity Data Engineering Nanodegree Program. </i>
